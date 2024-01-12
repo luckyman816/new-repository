@@ -87,8 +87,6 @@ mongod
 
 # NC_DBs
 #=========
-nc_minimal_dbs/
-test_noco.db
 
 # ngrok config
 httpbin
